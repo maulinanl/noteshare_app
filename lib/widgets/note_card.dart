@@ -118,7 +118,11 @@ class NoteCard extends StatelessWidget {
                     ),
                   ),
                   const SizedBox(width: 16),
+<<<<<<< HEAD
                   Icon(
+=======
+                  const Icon(
+>>>>>>> 104a59dcf4b1f007cf165f6a02124ca6a3115538
                     Icons.favorite_border,
                     size: 16,
                     color: Colors.black38,
@@ -132,7 +136,11 @@ class NoteCard extends StatelessWidget {
                     ),
                   ),
                   const SizedBox(width: 16),
+<<<<<<< HEAD
                   Icon(
+=======
+                  const Icon(
+>>>>>>> 104a59dcf4b1f007cf165f6a02124ca6a3115538
                     Icons.visibility,
                     size: 16,
                     color: Colors.black38,
